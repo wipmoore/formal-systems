@@ -11,7 +11,7 @@ So they are deductive systems as they allow theorems to be derived from the axio
 
 ## Formal Language
 
-A formal language consists of _words_ ( also know as sentences ) made up from an _alphabet_ and are well formed according to a specific set of rules.  So a formal language _L_ over an alphabet _Σ_ is a subset of all the words that that can be composed from _Σ_ constrained by the set of rules that define what a well-formed expression is.  These rules are usually in the form of a formal grammar.
+A formal language consists of _words_ ( also know as sentences ) made up from an _alphabet_ that are well formed according to a specific set of rules.  So a formal language _L_ over an alphabet _Σ_ is a subset of all the words that that can be composed from _Σ_ constrained by the set of rules that define what a well-formed expression is.  These rules are usually in the form of a _formal grammar_.
 
 
 ## Inference Rules
